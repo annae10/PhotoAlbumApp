@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>249</width>
+    <width>494</width>
     <height>403</height>
    </rect>
   </property>
@@ -19,7 +19,7 @@
      <rect>
       <x>10</x>
       <y>0</y>
-      <width>221</width>
+      <width>471</width>
       <height>371</height>
      </rect>
     </property>
@@ -30,14 +30,14 @@ background-color:lightblue;
 }</string>
     </property>
     <property name="title">
-     <string>GroupBox</string>
+     <string/>
     </property>
     <widget class="QLabel" name="label">
      <property name="geometry">
       <rect>
-       <x>40</x>
+       <x>140</x>
        <y>50</y>
-       <width>71</width>
+       <width>131</width>
        <height>31</height>
       </rect>
      </property>
@@ -53,13 +53,13 @@ color:darkblue;
 }</string>
      </property>
      <property name="text">
-      <string>User Name:</string>
+      <string>Username:</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_2">
      <property name="geometry">
       <rect>
-       <x>40</x>
+       <x>140</x>
        <y>100</y>
        <width>71</width>
        <height>31</height>
@@ -83,9 +83,9 @@ color:darkblue;
     <widget class="QLineEdit" name="lineEdit_User_Name">
      <property name="geometry">
       <rect>
-       <x>40</x>
+       <x>140</x>
        <y>80</y>
-       <width>113</width>
+       <width>191</width>
        <height>22</height>
       </rect>
      </property>
@@ -108,9 +108,9 @@ border:1px solid white;
     <widget class="QLineEdit" name="lineEdit_Password">
      <property name="geometry">
       <rect>
-       <x>40</x>
+       <x>140</x>
        <y>130</y>
-       <width>113</width>
+       <width>191</width>
        <height>22</height>
       </rect>
      </property>
@@ -133,9 +133,9 @@ border:1px solid white;
     <widget class="QPushButton" name="pushButton_Login">
      <property name="geometry">
       <rect>
-       <x>60</x>
+       <x>150</x>
        <y>200</y>
-       <width>75</width>
+       <width>161</width>
        <height>24</height>
       </rect>
      </property>
@@ -167,8 +167,8 @@ background-color:blue;
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>249</width>
-     <height>22</height>
+     <width>494</width>
+     <height>23</height>
     </rect>
    </property>
   </widget>
